@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "FunctionLoadQueue.Presentation": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7244",
-      "launchBrowser": false
-    }
-  }
-}
